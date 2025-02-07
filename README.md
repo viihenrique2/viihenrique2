@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, sou **Vitor Henrique** 👋
 
-<!--
-**viihenrique2/viihenrique2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desenvolvedor de Sistemas | Especialista em **RH** 💻
 
-Here are some ideas to get you started:
+### Tecnologias e Ferramentas que utilizo:
+- **SQL** 💾
+- **Python** 🐍
+- **VBA** 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Áreas de Atuação:
+- **Sistemas de Gestão de Recursos Humanos (RH)**
+- **RM TOTVS** | **Benner**
+
+### O que faço:
+- 🔧 **Implantação de Sistemas**
+- 🖥️ **Automatização de Processos**
+- 📈 **Soluções para Eficiência Operacional**
+
+Se você está interessado em **tecnologias de RH**, **automação de sistemas** ou **soluções eficientes**, esse repositório é para você!
+
+---
+
+### 📱 **Me siga nas redes sociais:**
+
+- **Instagram:** [@vitor_henri23](https://www.instagram.com/vitor_henri23?igsh=Nng5Nmh4YzZ0d215&utm_source=qr)
+- **LinkedIn:** [Vitor Henrique](https://www.linkedin.com/in/vitor-henrique-3a5b3b109?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+---
+
+🌟 Vamos conectar e compartilhar conhecimento! 🌟
