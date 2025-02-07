@@ -2,7 +2,6 @@
 
 Desenvolvedor de Sistemas com foco em sistemas de RH, incluindo RM TOTVS e Benner. Utilizo linguagens como SQL, Python e VBA, e tenho experiência em implantação de sistemas.
 
-[![Blog](https://img.shields.io/website?label=Meu%20Portfólio&style=for-the-badge&url=https://seusite.com)](https://seusite.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_henri23?igsh=Nng5Nmh4YzZ0d215&utm_source=qr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-henrique-3a5b3b109?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
